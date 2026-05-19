@@ -1,0 +1,2 @@
+# Does-Study-Time-Predict-Test-Performance-Among-Doral-Academy-Students
+This study investigated whether study time significantly predicts test performance among students at Doral Academy High School. Results showed that while average study time at Doral did not significantly differ from five hours, students who studied five or more hours scored significantly higher than those who studied less than five hours. 
